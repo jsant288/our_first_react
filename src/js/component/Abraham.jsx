@@ -8,10 +8,10 @@ const Abraham = () => {
 	return (
 		<div className="text-center mt-5">
 			<div>
-				<nav className="navbar navbar-expand-lg navbar-light bg-light">
+				<nav className="navbar navbar-expand-lg navbar-dark bg-dark">
 					<div className="container-fluid">
 						<a className="navbar-brand" href="#">
-							Space
+							Space X
 						</a>
 						<button
 							className="navbar-toggler"
@@ -48,7 +48,7 @@ const Abraham = () => {
 										role="button"
 										data-bs-toggle="dropdown"
 										aria-expanded="false">
-										Other Stuff
+										Stars
 									</a>
 									<ul
 										className="dropdown-menu"
@@ -57,14 +57,14 @@ const Abraham = () => {
 											<a
 												className="dropdown-item"
 												href="#">
-												Action
+												Planets
 											</a>
 										</li>
 										<li>
 											<a
 												className="dropdown-item"
 												href="#">
-												Another action
+												Expanding Universe
 											</a>
 										</li>
 										<li>
@@ -84,9 +84,7 @@ const Abraham = () => {
 										className="nav-link disabled"
 										href="#"
 										tabIndex={-1}
-										aria-disabled="true">
-										Disabled
-									</a>
+										aria-disabled="true"></a>
 								</li>
 							</ul>
 							<form className="d-flex">
