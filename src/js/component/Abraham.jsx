@@ -6,7 +6,7 @@ import rigoImage from "../../img/rigo-baby.jpg";
 //create your first component
 const Abraham = () => {
 	return (
-		<div className="text-center mt-5">
+		<div className="text-center mt-0">
 			<div>
 				<nav className="navbar navbar-expand-lg navbar-dark bg-dark">
 					<div className="container-fluid">
