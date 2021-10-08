@@ -7,7 +7,7 @@ import rigoImage from "../../img/rigo-baby.jpg";
 const Christian = () => {
 	return (
 		<div className="text-center mt-5">
-			<div>
+			<div className="container">
 				<div
 					id="carouselExampleCaptions"
 					className="carousel slide"
