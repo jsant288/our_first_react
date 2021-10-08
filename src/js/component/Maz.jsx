@@ -37,7 +37,7 @@ const Maz = () => {
 						Remember Me
 					</label>
 				</div>
-				<button type="Sign up" className="btn btn-primary">
+				<button type="Sign up" className="btn btn-dark">
 					Sign up
 				</button>
 			</div>
