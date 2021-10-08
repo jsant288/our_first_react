@@ -22,9 +22,9 @@ ReactDOM.render(
 		<Ernesto />
 		<Christian />
 		<Sarah />
-		<Maz />
-		<Abraham />
 		<Home />
+		<Abraham />
+		<Maz />
 	</>,
 
 	document.querySelector("#app")
