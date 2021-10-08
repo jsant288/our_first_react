@@ -51,7 +51,7 @@ const Joel = () => {
 					<div className="card">
 						<img
 							className="card-img-top"
-							src="..."
+							src="https://d3lut3gzcpx87s.cloudfront.net/image_encoded/aHR0cHM6Ly9zaWxrc3RhcnQuczMuYW1hem9uYXdzLmNvbS81YTY3ODIwOGZkYmE0YjI5OWEyN2NmMjkuanBn/x"
 							alt="Card image cap"
 						/>
 						<div className="card-body">
