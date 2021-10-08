@@ -37,7 +37,7 @@ const Christian = () => {
 					<div className="carousel-inner">
 						<div className="carousel-item active">
 							<img
-								src="https://ca-times.brightspotcdn.com/dims4/default/d197a68/2147483647/strip/true/crop/1024x576+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa9%2Fd2%2F06e1aabd3443b0d46e373b55e9e2%2Fsd-1518739000-icdqtdaj6k-snap-image"
+								src="https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Falexknapp%2Ffiles%2F2017%2F12%2F26405462060_81f8289687_k-1200x675.jpg"
 								className="d-block w-100"
 								alt="..."
 							/>
@@ -67,7 +67,7 @@ const Christian = () => {
 						</div>
 						<div className="carousel-item">
 							<img
-								src="https://www.history.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTY0Njg3NzMwODQ3MDAwMTE1/apollo11_moon_landing_promo.jpg"
+								src="https://gray-ky3-prod.cdn.arcpublishing.com/resizer/eOGEEvxXwXTfnhm5V-LkN2iLOV4=/1200x675/filters:focal(563x439:573x429):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/W3AEQ24D65OSXHQGP4XEZKTOZI.jpg"
 								className="d-block w-100"
 								alt="..."
 							/>

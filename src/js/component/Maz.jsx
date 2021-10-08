@@ -7,7 +7,7 @@ import rigoImage from "../../img/rigo-baby.jpg";
 const Maz = () => {
 	return (
 		<form>
-			<div class="container">
+			<div className="container">
 				<div className="form-group">
 					<label htmlFor="exampleInputEmail1">Name</label>
 					<input
