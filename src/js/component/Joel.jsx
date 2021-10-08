@@ -7,7 +7,7 @@ import rigoImage from "../../img/rigo-baby.jpg";
 const Joel = () => {
 	return (
 		<div className="text-center mt-5">
-			<div className="row">
+			<div className="col-4">
 				<div className="card-deck">
 					<div className="card">
 						<img
