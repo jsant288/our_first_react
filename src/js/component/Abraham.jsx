@@ -8,7 +8,7 @@ const Abraham = () => {
 	return (
 		<div className="text-center mt-5">
 			<div>
-				<nav className="navbar navbar-expand-lg navbar-light bg-light">
+				<nav className="navbar navbar-expand-lg navbar-dark bg-dark">
 					<div className="container-fluid">
 						<a className="navbar-brand" href="#">
 							Space
