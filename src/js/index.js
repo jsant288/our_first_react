@@ -9,7 +9,7 @@ import "bootstrap";
 import "../styles/index.scss";
 
 //import your own components
-import Home from "./component/home.jsx";
+import Joel from "./component/Joel.jsx";
 import Ernesto from "./component/Ernesto.jsx";
 import Sarah from "./component/Sarah.jsx";
 import Maz from "./component/Maz.jsx";
@@ -19,12 +19,12 @@ import Christian from "./component/Christian.jsx";
 //render your react application
 ReactDOM.render(
 	<>
-		<Ernesto />
+		<Abraham />
 		<Christian />
+		<Joel />
 		<Sarah />
 		<Maz />
-		<Abraham />
-		<Home />
+		<Ernesto />
 	</>,
 
 	document.querySelector("#app")
