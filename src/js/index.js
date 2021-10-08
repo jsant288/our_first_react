@@ -18,13 +18,14 @@ import Christian from "./component/Christian.jsx";
 
 //render your react application
 ReactDOM.render(
-<>
-<Ernesto/>
-<Sarah/>
-<Maz/>
-<Christian/>
-<Abraham/>
-<Home/>
-</>, 
+	<>
+		<Ernesto />
+		<Christian />
+		<Sarah />
+		<Maz />
+		<Abraham />
+		<Home />
+	</>,
 
-document.querySelector("#app"));
+	document.querySelector("#app")
+);
